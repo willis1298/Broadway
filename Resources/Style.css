@@ -1,6 +1,27 @@
 html{
   font-family: Helvetica; text-align: center;
 }
+.head{
+  font-size: 70px;
+}
 .main-banner{
-  background-image: url("the-flatiron-building.png");
+  background-image: url("the-flatiron-building.png"); color: white;
+}
+.size{
+  font-size: 18px;
+}
+h2{
+  font-size: 32px; font-weight: bold;
+}
+h3{
+  font-size: 23px font-weight: bold;
+}
+.sub-banner{
+  background-image: url("the-flatiron-building.png"); color: white;
+}
+.copy{
+  font-size: 11px; color: white;
+}
+.footer{
+  background-color: dimgray; color: white; text-align: left;
 }
